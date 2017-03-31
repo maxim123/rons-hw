@@ -2,8 +2,12 @@
 
 ## Things to do
 
-### Homework
+### Harry's Homework
+* Magic Creatures
+
+### Ron's Homework
 * Potions
+* Help Harry with his hw
 * Transfiguration
 
 ### Other
